@@ -1,0 +1,44 @@
+{
+  "name": "李宝伟",
+  "updateTime": "2019-12-25",
+  "gender": "男",
+  "age": 18,
+  "experience": "无工作经验",
+  "phone": "17817085209",
+  "email": "1549673926@qq.com",
+  "applyState": "应届毕业生",
+  "expectIndustry": "计算机软件",
+  "expectJob": "web前端",
+  "expectMonthlySalary": "20000",
+  "workExperience": [
+    {
+      "id": 1,
+      "company": "哗啦啦有限公司",
+      "position": "Web前端高级工程师",
+      "description": "1.负责公司前端开发2.与UI设计师、产品与后台人员配合",
+      "startTime": "2019-01-01",
+      "endTime": "2020-01-01"
+    }
+  ],
+  "projectExperience": [
+    {
+      "id": 1,
+      "name": "博客系统",
+      "description": "1.负责公司前端开发2.与UI设计师、产品与后台人员配合",
+      "startTime": "2019-01-01",
+      "endTime": "2020-01-01"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "school": "深圳大学",
+      "specialty": "信息与计算科学",
+      "educationalBack": "硕士",
+      "startTime": "2016-09-01",
+      "endTime": "2020-07-01"
+    }
+  ],
+  "selfEvaluation": "1.对前端有浓烈兴趣：空闲时喜欢仿写一些网页。2.对数据敏感、有团队协作沟通意识：具有多次组队建模经验",
+  "attachment": "李宝伟的简历.pdf"
+}

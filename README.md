@@ -1,2 +1,2 @@
 # baoweili.github.io
-招聘管理系统
+这是一个招聘管理系统
